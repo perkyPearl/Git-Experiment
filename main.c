@@ -1,5 +1,7 @@
 #include<stdio.h>
 
-void main(){
+int main(){
 	printf("This code is made on Local Machine & uploaded on GitHub.");
+	
+	return 0;
 }
