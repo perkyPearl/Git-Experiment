@@ -1,2 +1,2 @@
 # Git-Experiment
-This is Repository just to create Chaos🙃.
+This Repository is only made to create Chaos🙃.
